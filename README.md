@@ -27,11 +27,15 @@ The project have four parts
   My role was in the project is to build pulse generation part 
 
   challenge: challenge I faced that the minutes display was not working 
-   
+   ![Photo from Dhananjay kumar (4)](https://github.com/Dhananjaykp/electronics/assets/137052868/ef443350-db77-43d2-a129-a0a6cd87f076)
+
    ![Photo from Dhananjay kumar](https://github.com/Dhananjaykp/electronics/assets/137052868/a0be8c65-d0ce-4ef2-8e76-35e1454c901d)
+
+PCB DESIGN 
+
+![Photo from Dhananjay kumar (3)](https://github.com/Dhananjaykp/electronics/assets/137052868/6be33048-ec08-45fc-b115-bd9898c79a04)
+2D PCB DESIGN
+![Photo from Dhananjay kumar (2)](https://github.com/Dhananjaykp/electronics/assets/137052868/0d55831a-b2b7-455f-a576-20c7d387ee54)
+3D PCB DESIGN
 ![Photo from Dhananjay kumar (1)](https://github.com/Dhananjaykp/electronics/assets/137052868/f58bda4a-5a49-485f-b58e-e754003e2a6f)
 
-![Photo from Dhananjay kumar (2)](https://github.com/Dhananjaykp/electronics/assets/137052868/0d55831a-b2b7-455f-a576-20c7d387ee54)
-![Photo from Dhananjay kumar (3)](https://github.com/Dhananjaykp/electronics/assets/137052868/6be33048-ec08-45fc-b115-bd9898c79a04)
-
-7. 
