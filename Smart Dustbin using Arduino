@@ -1,1 +1,20 @@
 Smart Dustbin using Arduino
+
+It is a Dustbin that open automatically when someone's hand near by it. and also it move from  one place to other controlled by bluetooth android phone.
+
+We built this project for efficient waste management 
+
+component used :
+
+1. Arduino Uno
+2. Ultrasonic Sensor 
+3. Servo motor
+4. Bo Motor 
+5. L293D motor driver
+6. Jumper wires 
+7. Led bulbs
+8. Normal Dustbin 
+9. 9v Battery
+
+
+
