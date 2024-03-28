@@ -1,4 +1,5 @@
 Project Name : Digital Clock uning Electronics Components 
+Project Name : Digital Clock uning Electronics Components 
 Domain: built using Electronics components
 .
 Description: It is digital clock which display time on 7-segment display 
